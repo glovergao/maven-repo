@@ -8,11 +8,24 @@
     </parent>
     <artifactId>forkjoin-apikit-example</artifactId>
     <packaging>jar</packaging>
-    <name>apikit-example</name>
     <dependencies>
         <dependency>
             <groupId>org.forkjoin</groupId>
             <artifactId>forkjoin-apikit</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-validator</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.forkjoin</groupId>
+            <artifactId>forkjoin-apikit-core</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.forkjoin</groupId>
+            <artifactId>forkjoin-apikit-springmvc</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>

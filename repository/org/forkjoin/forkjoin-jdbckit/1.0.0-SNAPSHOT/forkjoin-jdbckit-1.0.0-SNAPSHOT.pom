@@ -8,7 +8,6 @@
 	</parent>
 	<artifactId>forkjoin-jdbckit</artifactId>
 	<packaging>jar</packaging>
-	<name>jdbckit</name>
 	<dependencies>
 		<dependency>
 			<groupId>org.forkjoin</groupId>
@@ -18,17 +17,10 @@
 		<dependency>
             <groupId>com.github.httl</groupId>
             <artifactId>httl</artifactId>
-            <version>1.0.11</version>
         </dependency>
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.35</version>
-		</dependency>
-		<dependency>
-			<groupId>net.moznion</groupId>
-			<artifactId>mysql-diff</artifactId>
-			<version>1.0.2</version>
 		</dependency>
 	</dependencies>
 	<build>
