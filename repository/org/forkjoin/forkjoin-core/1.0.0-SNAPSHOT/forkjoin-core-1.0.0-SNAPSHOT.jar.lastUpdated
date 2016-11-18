@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Nov 18 09:46:50 CST 2016
+default-https\://raw.githubusercontent.com/zuoge85/maven-repo/master/repository/.lastUpdated=1479433610623
+https\://raw.githubusercontent.com/zuoge85/maven-repo/master/repository/.error=Could not transfer artifact org.forkjoin\:forkjoin-core\:jar\:1.0.0-SNAPSHOT from/to maven-repository (https\://raw.githubusercontent.com/zuoge85/maven-repo/master/repository/)\: GET request of\: org/forkjoin/forkjoin-core/1.0.0-SNAPSHOT/forkjoin-core-1.0.0-SNAPSHOT.jar from maven-repository failed
